@@ -3,3 +3,8 @@ curl
 ripgrep
 fzf
 build-essential
+gh
+autojump
+unzip
+minicom
+distrobox
